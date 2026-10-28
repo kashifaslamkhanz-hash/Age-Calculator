@@ -63,7 +63,7 @@ input[type="date"]:focus { border-color: var(--purple); box-shadow: 0 0 0 4px rg
 .button-row { display: flex; gap: 12px; margin-top: 19px; }
 button { min-height: 50px; border: 0; border-radius: 12px; padding: 0 18px; cursor: pointer; font: inherit; font-weight: 700; transition: transform .15s, background .15s; }
 button:hover { transform: translateY(-1px); }
-.calculate-button { flex: 1; color: #fff; background: var(--purple); }
+.calculate-button { flex: 1; color: #fff; background: #2e9e55; }
 .calculate-button:hover { background: var(--purple-dark); }
 .reset-button { color: var(--purple); background: var(--lavender); }
 
